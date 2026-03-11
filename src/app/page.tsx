@@ -10,8 +10,7 @@ const planes = [
   {
     name: "B-2 Spirit",
     fact: "The B-2 can carry both conventional and nuclear weapons.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/B-2_Spirit_-_USAF_-_RIAT_2012_%288073073066%29.jpg"
-  },
+    image: "https://facts.net/wp-content/uploads/2025/06/20-facts-about-the-b-2-stealth-bomber-1750441431.jpg"
   {
     name: "A-10 Thunderbolt II",
     fact: "The A-10 is famous for its powerful GAU-8 Avenger cannon.",

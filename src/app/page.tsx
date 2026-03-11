@@ -5,7 +5,7 @@ const planes = [
   {
     name: "F-22 Raptor",
     fact: "The F-22 is the world’s first stealth air superiority fighter.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/F-22_Raptor_-_RIAT_2010_%285036529817%29.jpg"
+    image: "https://4.bp.blogspot.com/-JE5wpuNW_vw/XNGb7v12ViI/AAAAAAAAFV8/V5-tiD-N_B4UVb-Kut_fyM6VDr3VMNHCACLcBGAs/s1600/Lockheed%2BMartin%2BF-22%2BRaptor.jpg"
   },
   {
     name: "B-2 Spirit",
@@ -15,17 +15,17 @@ const planes = [
   {
     name: "A-10 Thunderbolt II",
     fact: "The A-10 is famous for its powerful GAU-8 Avenger cannon.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/A-10_Thunderbolt_II_-_RIAT_2010_%285036529817%29.jpg"
+    image: "https://tse1.mm.bing.net/th/id/OIP.Hd2pvbyhEjrW2fCw-11gqQHaE9?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     name: "F-16 Fighting Falcon",
     fact: "The F-16 is one of the most widely used fighter aircraft in the world.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/F-16_Fighting_Falcon_-_RIAT_2010_%285036529817%29.jpg"
+    image: "https://www.southcarolinamanufacturing.com/wp-content/uploads/2019/10/111.jpeg"
   },
   {
     name: "C-130 Hercules",
     fact: "The C-130 has been in continuous production since the 1950s.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/C-130_Hercules_-_USAF_-_RIAT_2012_%288073073066%29.jpg"
+    image: "https://media.defense.gov/2023/Dec/08/2003354507/-1/-1/0/230118-Z-OC517-1019.JPG"
   }
 ];
 

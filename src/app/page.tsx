@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 const planes = [
   {
@@ -39,7 +40,14 @@ export default function HomePage() {
     <main className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4">
       <h1 className="text-4xl font-bold mb-4 text-blue-900">US Military Plane of the Day</h1>
       <div className="bg-white rounded-lg shadow-lg p-6 max-w-md w-full flex flex-col items-center">
-        <img src={plane.image} alt={plane.name} className="w-full h-64 object-cover rounded mb-4" />
+        <Image
+          src={plane.image}
+          alt={plane.name}
+          width={400}
+          height={256}
+          className="w-full h-64 object-cover rounded mb-4"
+          unoptimized
+        />
         <h2 className="text-2xl font-semibold mb-2">{plane.name}</h2>
         <p className="text-gray-700 text-lg">{plane.fact}</p>
       </div>
